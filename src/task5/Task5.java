@@ -1,8 +1,8 @@
-package Task5;
+package task5;
 
 public class Task5 {
 
-    public static void FindSmallestNumberOfElements(int[] numArray) {
+    public static void findSmallestNumberOfElements(int[] numArray) {
         int[] arr = numArray;
 
         int j;

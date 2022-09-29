@@ -1,19 +1,19 @@
-import OtherTasks.*;
-import Task9.Ball;
-import Task9.Basket;
+import otherTasks.*;
+import task9.Ball;
+import task9.Basket;
 
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.TreeSet;
 
-import static Task1.Task1.calculateValueByFormula;
-import static Task2.Task2.belongsToShadedArea;
-import static Task3.Task3.calculateValuesOfFunctionOnSegment;
-import static Task4.Task4.checkArrayForPrimeNumbers;
-import static Task5.Task5.FindSmallestNumberOfElements;
-import static Task6.Task6.getSquareMatrixN;
-import static Task7.Task7.sortShell;
-import static Task8.Task8.findPlacesToInsertSequenceElements;
+import static task1.Task1.calculateValueByFormula;
+import static task2.Task2.belongsToShadedArea;
+import static task3.Task3.calculateValuesOfFunctionOnSegment;
+import static task4.Task4.checkArrayForPrimeNumbers;
+import static task5.Task5.findSmallestNumberOfElements;
+import static task6.Task6.getSquareMatrixN;
+import static task7.Task7.sortShell;
+import static task8.Task8.findPlacesToInsertSequenceElements;
 
 public class Main {
 
@@ -42,7 +42,7 @@ public class Main {
 
         //Task 5
         System.out.println("Task 5: ");
-        FindSmallestNumberOfElements(new int[]{2, 3, 2, 3, 4, 3, 5, 3, 6, 10, 11});
+        findSmallestNumberOfElements(new int[]{2, 3, 2, 3, 4, 3, 5, 3, 6, 10, 11});
         System.out.println();
         System.out.println();
 

@@ -1,4 +1,4 @@
-package OtherTasks;
+package otherTasks;
 
 import java.util.Comparator;
 

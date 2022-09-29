@@ -1,4 +1,4 @@
-package OtherTasks;
+package otherTasks;
 
 public class Book implements Comparable<Book> {
 
